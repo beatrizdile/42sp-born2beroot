@@ -8,7 +8,7 @@
 
   </h2>
 
-born2beroot is a system administration project that focuses on setting up and securing a server running a Debian-based operating system.
+Born2beroot is a system administration project that focuses on setting up and securing a server running a Debian-based operating system.
 
 ## Description
 
