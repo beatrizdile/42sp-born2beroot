@@ -3,10 +3,11 @@
  </h1>
 <h2 align=center>
   born2beroot
+</h2>
+<h2 align=center>
 
   ![born Logo](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
-
-  </h2>
+</h2>
 
 Born2beroot is a system administration project that focuses on setting up and securing a server running a Debian-based operating system.
 
