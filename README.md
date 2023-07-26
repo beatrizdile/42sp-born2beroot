@@ -9,13 +9,13 @@
   ![born Logo](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
 </h2>
 
-Born2beroot is a system administration project that focuses on setting up and securing a server running a Debian-based operating system.
+**born2beroot** is a system administration project that focuses on setting up and securing a server running a Debian-based operating system.
 
 ## Description
 
-born2beroot is a project that provides hands-on experience in system administration tasks and server setup. By completing this project, you will learn how to configure and secure a server environment based on the Debian operating system. The project emphasizes the importance of following security best practices and implementing proper server administration techniques.
+**born2beroot** is a project that provides hands-on experience in system administration tasks and server setup. By completing this project, you will learn how to configure and secure a server environment based on the Debian operating system. The project emphasizes the importance of following security best practices and implementing proper server administration techniques.
 
-To complete the born2beroot project, you need the following:
+To complete the **born2beroot** project, you need the following:
 
 - A computer with hardware virtualization support
 - Virtualization software (e.g., VirtualBox, VMware) installed
@@ -33,7 +33,7 @@ To install and set up the project environment, follow these steps:
 
 ## Configuration
 
-The born2beroot project involves the following configuration steps:
+The **born2beroot** project involves the following configuration steps:
 
 1. Network Configuration:
    - Set up a static IP address for the server.
@@ -61,7 +61,7 @@ Once the server is configured, you can use it for various purposes, such as host
 
 ## Security Considerations
 
-The born2beroot project focuses on implementing security best practices, including:
+The **born2beroot** project focuses on implementing security best practices, including:
 
 - Secure SSH configuration to protect against unauthorized access.
 - Implementation of a firewall to control network traffic and protect against malicious activities.
