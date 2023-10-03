@@ -6,7 +6,7 @@
 </h2>
 <h2 align=center>
 
-  ![born Logo](https://github.com/caroldaniel/caroldaniel-utils/blob/main/born2berootm.png)
+  ![born Logo](https://github.com/beatrizdile/beatrizdile-utils/blob/master/born2berootm.png)
 </h2>
 
 **born2beroot** is a system administration project that focuses on setting up and securing a server running a Debian-based operating system.
